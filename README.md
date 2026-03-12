@@ -40,7 +40,9 @@ The purpose of this project is to gain practical experience with:
 
 ## Screenshot
 
-
+<img src="Nav_&_Hero.png">
+<img src="Skills_Icon.png">
+<img src="Footer_BS.png"
 
 ---
 
@@ -56,6 +58,12 @@ bootstrap-portfolio-website
 │   ├── Project2.jpg
 │   ├── Kid1.jpg
 │   └── Kid2.jpg
+|
+├── Screenshots
+|   ├── Nav_&_Hero.png
+|   ├── Skills_Icon.png   
+|   ├── Teams_Cards.png
+|   ├── Footer_BS.png
 │
 └── README.md
 ```
