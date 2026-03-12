@@ -3,6 +3,8 @@
 This project is a portfolio-style website built using **Bootstrap 4**.
 It was created to practice responsive layouts and core Bootstrap concepts such as components, grid system, and utility classes.
 
+**Live Demo:** https://imranhabib123.github.io/pure-bootstrap-website/
+
 ---
 
 ## Purpose
@@ -38,7 +40,7 @@ The purpose of this project is to gain practical experience with:
 
 ---
 
-## Screenshot
+## Screenshots
 
 <img src="Nav_&_Hero.png">
 <img src="Skills_Icon.png">
